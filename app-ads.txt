@@ -1,7 +1,4 @@
-#ProfitSence - Programmatic Advertising Network | profitsence.com | info@profitsence.com
-
-
-#M_Entries
+google.com, pub-5674858524916424, DIRECT, f08c47fec0942fa0
 google.com, pub-7390493907602120, DIRECT, f08c47fec0942fa0
 profitsence.com, 23609, DIRECT
 readwhere.digital, rd1275vlxoesdrnyoictoehjdafayfqxqtvt6540cee3887ee, DIRECT
