@@ -2,6 +2,7 @@
 
 
 #M_Entries
+google.com, pub-7390493907602120, DIRECT, f08c47fec0942fa0
 profitsence.com, 23609, DIRECT
 readwhere.digital, rd1275vlxoesdrnyoictoehjdafayfqxqtvt6540cee3887ee, DIRECT
 
